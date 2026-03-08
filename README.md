@@ -39,6 +39,13 @@ Work in progress includes:
 - Designing the 3D CNN architecture
 - Experimenting with segmentation loss functions
 
+## Repository Structure
+
+data_preprocessing/  → MRI preprocessing scripts  
+models/              → 3D CNN architectures  
+notebooks/           → experiments and visualization  
+experiments/         → training logs and results
+
 ## Future Work
 
 - Implement U-Net based 3D architectures
