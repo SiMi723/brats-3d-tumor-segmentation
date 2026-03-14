@@ -1,13 +1,11 @@
-# Ignore dataset
-data/
+# Virtual environments
+brats_env/
+venv/
+.env/
 
-# Ignore medical image files
-*.nii
-*.nii.gz
+# Data
+data/
 
 # Python cache
 __pycache__/
 .ipynb_checkpoints/
-
-# virtual environment
-brats_env/
